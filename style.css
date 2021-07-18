@@ -1,0 +1,21 @@
+.canvas {
+    border: 2px solid rgba(13, 110, 253);
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav-scale {
+  margin-left: 345px;
+}
+
+#logo-image {
+  height: 185px;
+}
+
+#color:hover {
+  color:black;
+}
+
+.color-text {
+  color: white;
+}
