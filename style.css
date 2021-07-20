@@ -3,6 +3,10 @@
     margin: 0px;
     padding: 0px;
 }
+.btn:hover{
+  color: rgba(13, 110, 253);
+  background: none;
+}
 
 #nav-scale {
   margin-left: 345px;
